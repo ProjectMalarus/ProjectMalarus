@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProjectMalarus
 - 👀 I’m interested in ... software development
-- 🌱 I’m currently learning ... C#, about APIs, Source Code Management, etc
+- 🌱 I’m currently learning ... C#, HTML, CSS, SQL, JS about APIs, Source Code Management, etc
 - 💞️ I’m looking to collaborate on ... nothing so far, I'm still learning programming. Maybe some beginner low-stress projects to get my feet wet.
 - 📫 How to reach me ... muzowih1@students.kennesaw.edu or uzowihemalachi@gmail.com
 - 😄 Pronouns: ... He/Him
